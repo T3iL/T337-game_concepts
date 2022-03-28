@@ -12,7 +12,7 @@
 
 ### --------ZAD
 ```
-T33701 - Przygotuj planszę 500 x 500 wypełnionąlosowo generowanymi kwadratami 50x50
+T33701 - Przygotuj planszę 500 x 500 wypełnioną losowo generowanymi kwadratami 50x50
   
 T33702 - Przygotuj planszę wypełnioną kolorowymi kwadracikami (kombinavcja - trzykolorowe obszary)
   
