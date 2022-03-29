@@ -16,7 +16,7 @@ T33701 - Przygotuj planszę 500 x 500 wypełnioną losowo generowanymi kwadratam
   
 T33702 - Przygotuj planszę wypełnioną kolorowymi kwadracikami (kombinavcja - trzykolorowe obszary)
   
-T33703 - Zaimplementuj edytor leveli
+T33703 - Zaimplementuj edytor leveli - ZADANIE DOMOWE. Termin: 4.04.2022
   - dane levelu w tablicy
   - dane levelu pobrane z edytora (wejście > wyjście > eksport)
 
