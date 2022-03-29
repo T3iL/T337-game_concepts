@@ -24,6 +24,9 @@ T33704 - Przygotuj grę labirynt
   
 T33705 - Przygotuj grę (dont touch a wall)
 ```
+  
+  ![Edutor](Edytor Leveli.png)
+  
 ### --------Links
 https://github.com/T3iL/T337-game_concepts
 
